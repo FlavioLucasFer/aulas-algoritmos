@@ -1,0 +1,3 @@
+### Note que se dividirmos 3 por 3 em um código Python o output será 1.0, porém a divisão de 3 por 3 é igual a 1 inteiro. Por que então o output é um float?
+
+O output será 1.0 pois a operação de divisão entre dois números inteiros pode resultar em um float, por exemplo: 3 / 2 = 1.5, deste modo, o Python considera o resultado da divisão entre inteiros sempre como sendo do tipo float para evitar problemas 
